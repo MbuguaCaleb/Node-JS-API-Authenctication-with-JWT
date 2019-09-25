@@ -1,0 +1,29 @@
+{
+  "name": "Jwt",
+  "version": "1.0.0",
+  "description": "NodeJS Authenctication with jwt",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app",
+    "dev": "nodemon app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MbuguaCaleb/Node-JS-API-Authenctication-with-JWT.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MbuguaCaleb/Node-JS-API-Authenctication-with-JWT/issues"
+  },
+  "homepage": "https://github.com/MbuguaCaleb/Node-JS-API-Authenctication-with-JWT#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.2"
+  }
+}
